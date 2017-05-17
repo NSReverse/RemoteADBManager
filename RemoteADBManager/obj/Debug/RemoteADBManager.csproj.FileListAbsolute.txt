@@ -1,0 +1,13 @@
+D:\Documents\VisualStudioProjects\RemoteADBManager\RemoteADBManager\bin\Debug\RemoteADBManager.exe.config
+D:\Documents\VisualStudioProjects\RemoteADBManager\RemoteADBManager\bin\Debug\RemoteADBManager.exe.manifest
+D:\Documents\VisualStudioProjects\RemoteADBManager\RemoteADBManager\bin\Debug\RemoteADBManager.application
+D:\Documents\VisualStudioProjects\RemoteADBManager\RemoteADBManager\bin\Debug\RemoteADBManager.exe
+D:\Documents\VisualStudioProjects\RemoteADBManager\RemoteADBManager\bin\Debug\RemoteADBManager.pdb
+D:\Documents\VisualStudioProjects\RemoteADBManager\RemoteADBManager\obj\Debug\RemoteADBManager.csprojResolveAssemblyReference.cache
+D:\Documents\VisualStudioProjects\RemoteADBManager\RemoteADBManager\obj\Debug\RemoteADBManager.Form1.resources
+D:\Documents\VisualStudioProjects\RemoteADBManager\RemoteADBManager\obj\Debug\RemoteADBManager.Properties.Resources.resources
+D:\Documents\VisualStudioProjects\RemoteADBManager\RemoteADBManager\obj\Debug\RemoteADBManager.csproj.GenerateResource.Cache
+D:\Documents\VisualStudioProjects\RemoteADBManager\RemoteADBManager\obj\Debug\RemoteADBManager.exe.manifest
+D:\Documents\VisualStudioProjects\RemoteADBManager\RemoteADBManager\obj\Debug\RemoteADBManager.application
+D:\Documents\VisualStudioProjects\RemoteADBManager\RemoteADBManager\obj\Debug\RemoteADBManager.exe
+D:\Documents\VisualStudioProjects\RemoteADBManager\RemoteADBManager\obj\Debug\RemoteADBManager.pdb
